@@ -1,4 +1,4 @@
-# ✏️ Turn-Based-2D-Game
+# 🎮 Turn-Based-2D-Game
 Simple Turn-Based 2D Game 
 # ⚙️ Install
 
